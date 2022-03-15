@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FBB-David
 - 👀 I’m interested in Hiking, Beekeeping, Xeriscaping, Pollinator Gardens
 - 🌱 I’m currently working on my Google Cloud Data Engineer certification
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on sports data integration, data model orchestration tools
 
 <!---
 FBB-David/FBB-David is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
